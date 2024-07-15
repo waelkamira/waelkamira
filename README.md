@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning back end
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ramondm4@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 
 <!---
 waelkamira/waelkamira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
